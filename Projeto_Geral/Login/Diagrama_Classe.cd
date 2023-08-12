@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Login.DAL.Conexao">
+    <Position X="26" Y="8.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\Conexao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.DAL.FolhaDAO">
+    <Position X="33.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AQACACAAAAAIAAQECKAAAUAIAADAAAAIAAAQYAEAQgA=</HashCode>
+      <FileName>DAL\FolhaDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.DAL.FuncionarioDAO">
+    <Position X="30" Y="4.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AYAAAAAAAAAIAAQEAIABAQAAAAAAAAAAAAAAIAEAAAI=</HashCode>
+      <FileName>DAL\FuncionarioDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.DAL.LoginDAO">
+    <Position X="30" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAQEAIAABQAAEAAAAAAAAAABIAAAAAA=</HashCode>
+      <FileName>DAL\LoginDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Modelo.Controle">
+    <Position X="29" Y="8.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAEAIAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Modelo\Controle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Program">
+    <Position X="27.25" Y="6" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAABACAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.FrmLogin">
+    <Position X="0.5" Y="4.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAlAAACCAAJAAACCAAAACAJAQAEAgBABAAABQAAI=</HashCode>
+      <FileName>Apresentacao\FrmLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.ContainerControl" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Login.Apresentacao.FrmMenu">
+    <Position X="3.5" Y="4.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIgAAIwACAGgBkQQCCIGAACBAAAAAECQAAABQhYAAA=</HashCode>
+      <FileName>Apresentacao\FrmMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Apresentacao.FrmMenuCadastrar">
+    <Position X="6.5" Y="5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AACQCACAICGQCpCAAACAAAACAQBACEAAACQAAAECwAQ=</HashCode>
+      <FileName>Apresentacao\FrmMenuCadastrar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Apresentacao.FrmMenuFolha">
+    <Position X="6.25" Y="9" Width="3" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>/xCEAAAAECEQBpAASACCBAgaAARBAdhAASoAIQBCQBg=</HashCode>
+      <FileName>Apresentacao\FrmMenuFolha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Apresentacao.FrmMenuFolhaPesquisar">
+    <Position X="9.5" Y="8.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAECAAABEAACDCAAAKBIAAAAAAQQBAIQAQAAQ=</HashCode>
+      <FileName>Apresentacao\FrmMenuFolhaPesquisar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Apresentacao.FrmMenuFuncionario">
+    <Position X="11.5" Y="3.75" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EBSQIACANCGUApAABACEKAgaAABQAYQiBCCIIJFKSAA=</HashCode>
+      <FileName>Apresentacao\FrmMenuFuncionario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Apresentacao.FrmMenuFuncionarioPesquisar">
+    <Position X="14.5" Y="3.75" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAADAAABEABCDAAAAOBIACAAAAQABAIQAQAAQ=</HashCode>
+      <FileName>Apresentacao\FrmMenuFuncionarioPesquisar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Apresentacao.FrmMenuHolerite">
+    <Position X="13" Y="8.25" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAACACABQAAgCCCQgCAAAAAAAAAQAIAQDAAAA=</HashCode>
+      <FileName>Apresentacao\FrmMenuHolerite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Apresentacao.FrmMenuHoleriteFunc">
+    <Position X="17.5" Y="3.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgEEAAAAACAAEACAEAAAAAAAAAEAAEAACA=</HashCode>
+      <FileName>Apresentacao\FrmMenuHoleriteFunc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalendarioClinica.FrmMenuHome">
+    <Position X="21.5" Y="7.25" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CEDYAAIAIDHiIJIIMGCAADMTQQAEAIAEAAQQBQBQBDA=</HashCode>
+      <FileName>Apresentacao\FrmMenuHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Apresentacao.FrmMenuRelatorios">
+    <Position X="23.75" Y="3.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAQABAAAgCAAAACAAAAAAAAAQAAAQBAAIA=</HashCode>
+      <FileName>Apresentacao\FrmMenuRelatorios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Apresentacao.FrmMenuRelatorioTodos">
+    <Position X="26.5" Y="3.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACgEAAAAIACAAAACAEAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Apresentacao\FrmMenuRelatorioTodos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
